@@ -9,5 +9,5 @@ desktop.ini
 *.tmproj
 build
 nbproject/
-vendor/
 .idea
+vendor/
