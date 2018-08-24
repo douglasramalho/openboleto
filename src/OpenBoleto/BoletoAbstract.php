@@ -152,7 +152,7 @@ abstract class BoletoAbstract
      * Espécie do documento, geralmente DM (Duplicata Mercantil)
      * @var string
      */
-    protected $especieDoc;
+    protected $especieDoc = "DM";
 
     /**
      * Número do documento
