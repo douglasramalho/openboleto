@@ -34,13 +34,13 @@ $boleto = new Caixa(array(
 
     // Parâmetros opcionais
     //'resourcePath' => '../resources',
-    //'moeda' => Caixa::MOEDA_REAL,
+    'moeda' => Caixa::MOEDA_REAL,
     //'dataDocumento' => new DateTime(),
     //'dataProcessamento' => new DateTime(),
     //'contraApresentacao' => true,
     //'pagamentoMinimo' => 23.00,
     //'aceite' => 'N',
-    //'especieDoc' => 'ABC',
+    'especieDoc' => 'DM',
     //'numeroDocumento' => '123.456.789',
     //'usoBanco' => 'Uso banco',
     //'layout' => 'caixa.phtml',
